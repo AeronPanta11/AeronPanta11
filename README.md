@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aeron Panta</h1>
-<h3 align="center">A passionate AI/ML Engineer | Data Analyst | PHP Developer from Nepal</h3>
+<h3 align="center">AI/ML Engineer | Data Analyst | PHP Developer /h3>
 
 # 💫 About Me:
 I'm Currently working on Rubik 3D an mobile app that helps to solve the rubik cube.
