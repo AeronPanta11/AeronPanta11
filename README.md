@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aeron Panta</h1>
-<h3 align="center">AI/ML Engineer | Data Analyst | PHP Developer </h3>
+<h3 align="center">AI/ML Engineer | React Developer| PHP Developer </h3>
 
 # 💫 About Me:
-I'm Currently working on Rubik 3D an mobile app that helps to solve the rubik cube.
+I'm Currently working on AUTOMERGE AI. A plugins that helps to solve the merge issue on the github.
 
 
 ## 🌐 Socials:
