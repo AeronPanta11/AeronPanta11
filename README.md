@@ -62,8 +62,8 @@ I'm a Computer Engineering graduate building reliable, production-grade AI syste
 
 | Project | Description | Stack |
 |---|---|---|
-| **Auto Merge** | Intelligent GitHub merge-conflict resolver using a fine-tuned CodeT5 model | CodeT5, Diff3, Python |
 | **Resume Screener** | LLM-based resume-to-JD scoring system for recruiters *(ongoing)* | LLMs, Prompt Engineering, FastAPI |
+| **Auto Merge** | Intelligent GitHub merge-conflict resolver using a fine-tuned CodeT5 model | CodeT5, Diff3, Python |
 | **Sentiment Analysis** | Three-class sentiment classifier benchmarked against SVM & Naive Bayes | NLTK, Scikit-learn, Python |
 | **Resume Builder** | Web app with PDF-parsing to auto-populate resume templates | Flask, Python, HTML/CSS |
 
