@@ -69,20 +69,5 @@ I'm a Computer Engineering graduate building reliable, production-grade AI syste
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AeronPanta11&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AeronPanta11&theme=dark&hide_border=false" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AeronPanta11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AeronPanta11&icon=6&color=2" /></a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
